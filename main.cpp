@@ -1,3 +1,7 @@
+/*
+[ INSTITUTO FEDERAL DO NORTE DE MINAS GERAIS / CAMPUS MONTES CLAROS - TURMA 2019 DE CIÊNCIA DA COMPUTAÇÃO ]
+                                    ALUNO: PATRICK DUARTE PIMENTA | Ano: 2020
+*/
 #include <iostream>
 #include "Heap.hpp"
 
